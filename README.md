@@ -18,7 +18,8 @@ Built an end-to-end ETL pipeline using Python to process e-commerce data, load i
 - Revenue Trend  
 - Orders by Status  
 - Top Cities  
-- Payment Distribution  
+- Payment Distribution
+You can view the Live dashboard: https://app.powerbi.com/home?experience=power-bi
 
 # Run the Project
 ```bash
