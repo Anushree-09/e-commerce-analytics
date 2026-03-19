@@ -1,7 +1,7 @@
 # E-commerce ETL Pipeline & Dashboard
 
 # Overview
-Built an end-to-end ETL pipeline using Python to process e-commerce data, load it into MySQL, and create an interactive Power BI dashboard for business insights.
+Built an end-to-end ETL pipeline using Python to process e-commerce data, loaded it into MySQL, and created an interactive Power BI dashboard for business insights.
 
 # Tech Stack
 - Python (Pandas, SQLAlchemy)
