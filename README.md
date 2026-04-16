@@ -19,6 +19,7 @@ Built an end-to-end ETL pipeline using Python to process e-commerce data, loaded
 - Orders by Status  
 - Top Cities  
 - Payment Distribution
+
 Open the .pbix file in Power BI Desktop to explore the dashboard.
 
 # Run the Project
