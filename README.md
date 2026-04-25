@@ -14,11 +14,17 @@ Built an end-to-end ETL pipeline using Python to process e-commerce data, loaded
 - Transform: Merged datasets, cleaned data, created features  
 - Load: Stored data in MySQL (`ecommerce_orders` table)  
 
-# Dashboard Highlights
+# Dashboard Highlights and Preview
 - Revenue Trend  
 - Orders by Status  
 - Top Cities  
 - Payment Distribution
+
+![Dashboard](dashboard_screenshots/order_analysis.png)
+
+![Dashboard](dashboard_screenshots/revenue_overview.png)
+
+or
 
 Open the .pbix file in Power BI Desktop to explore the dashboard.
 
